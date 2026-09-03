@@ -57,6 +57,22 @@ Actualmente:
 
 `PostgreSQL` · `PostGIS` · `MySQL`
 
+## AI-assisted development
+
+Integro agentes de código en mi flujo de desarrollo para acelerar tareas sin delegar la validación técnica.
+
+Uso herramientas como **Codex y OpenCode** para:
+
+- explorar y comprender repositorios;
+- planificar implementaciones;
+- trabajar sobre múltiples archivos;
+- debugging y análisis de errores;
+- refactoring;
+- generación y mejora de tests;
+- documentación técnica.
+
+Cada cambio es revisado, probado y validado antes de integrarse.
+
 ### Herramientas
 
 <p>
