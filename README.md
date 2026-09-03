@@ -2,7 +2,7 @@
 
 # Jeremías Bustos
 
-### Java Backend Developer Jr · Spring Boot · PostgreSQL · React
+### Java Backend Developer Jr | Spring Boot · PostgreSQL | AI-assisted development
 
 Desarrollo aplicaciones web y sistemas de gestión, con foco en backend con **Java y Spring Boot**.
 
